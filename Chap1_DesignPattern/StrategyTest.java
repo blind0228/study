@@ -104,7 +104,7 @@ class ShoppingCart {
 
 
 
-public class strategyTest {
+public class StrategyTest {
     public static void main(String[] args) {
         ShoppingCart cart = new ShoppingCart();
 
